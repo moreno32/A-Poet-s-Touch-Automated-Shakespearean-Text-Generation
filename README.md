@@ -7,7 +7,7 @@ In this project, we aim to build a deep learning model that can generate text si
 ![Category and Subcategory](https://img.shields.io/badge/Neuronal%20Networks-FF%20Feed%20Forward-yellow)
 
 ## 🖼️ Images of the Project:
-<img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/A-Poet-s-Touch-Automated-Shakespearean-Text-Generation/master/reports/figures/A-Poet-s-Touch-Automated-Shakespearean-Text-Generation.png" width="700" height="494" /><br>
+<img src="https://raw.githubusercontent.com/moreno32/A-Poet-s-Touch-Automated-Shakespearean-Text-Generation/master/reports/figures/A-Poet-s-Touch-Automated-Shakespearean-Text-Generation.png?token=GHSAT0AAAAAAB3PXF5PIYE4EQ2JUH436AHMY7J2VKA" alt="banner that says Daniel Moreno">
 
 ## 🎊 Motivation:
 Shakespeare's writing is renowned for its beauty and timeless appeal. However, creating such text requires a high degree of skill and creativity. With the advancements in Artificial Intelligence and Natural Language Processing, we now have the capability to automate this process, making Shakespeare's literary brilliance accessible to a wider audience. This project is a step in that direction, exploring the potential of deep learning models to generate Shakespearean text.
